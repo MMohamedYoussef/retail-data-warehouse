@@ -1,0 +1,45 @@
+version: 2
+models:
+  - name: stg_transactions
+    columns:
+      - name: line_id
+        data_tests: [unique, not_null]
+      - name: quantity
+        data_tests: [not_null]
+  - name: dim_date
+    columns:
+      - name: date_key
+        data_tests: [unique, not_null]
+  - name: dim_store
+    columns:
+      - name: store_key
+        data_tests: [unique, not_null]
+  - name: dim_product
+    columns:
+      - name: product_key
+        data_tests: [unique, not_null]
+  - name: fact_sales
+    columns:
+      - name: line_id
+        data_tests: [unique, not_null]
+      - name: date_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_key
+      - name: store_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_store')
+                field: store_key
+      - name: product_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_key

@@ -1,0 +1,12 @@
+name: retail_data_warehouse
+version: '1.0.0'
+config-version: 2
+profile: retail_warehouse
+model-paths: [models]
+seed-paths: [seeds]
+models:
+  retail_data_warehouse:
+    +materialized: table
+seeds:
+  retail_data_warehouse:
+    +quote_columns: false

@@ -1,0 +1,601 @@
+line_id,order_date,store_id,store_region,product_id,product_name,category,quantity,unit_price_usd,discount_pct
+L00001,2026-02-10,S02,South,P02,Keyboard,Electronics,1,79.0,0.0
+L00002,2026-02-21,S02,South,P01,Headphones,Electronics,3,49.9,0.1
+L00003,2026-01-10,S02,South,P01,Headphones,Electronics,2,49.9,0.1
+L00004,2026-02-02,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00005,2026-03-22,S03,West,P03,Coffee beans,Grocery,5,16.5,0.0
+L00006,2026-01-19,S03,West,P01,Headphones,Electronics,5,49.9,0.0
+L00007,2026-03-21,S01,North,P03,Coffee beans,Grocery,4,16.5,0.0
+L00008,2026-01-08,S01,North,P04,Notebook,Stationery,5,8.75,0.0
+L00009,2026-01-17,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00010,2026-01-24,S01,North,P03,Coffee beans,Grocery,4,16.5,0.0
+L00011,2026-01-17,S01,North,P05,Desk lamp,Home,1,35.0,0.0
+L00012,2026-01-21,S01,North,P01,Headphones,Electronics,5,49.9,0.1
+L00013,2026-03-18,S01,North,P01,Headphones,Electronics,4,49.9,0.0
+L00014,2026-01-05,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00015,2026-03-14,S02,South,P02,Keyboard,Electronics,5,79.0,0.0
+L00016,2026-01-26,S03,West,P01,Headphones,Electronics,2,49.9,0.05
+L00017,2026-01-28,S02,South,P04,Notebook,Stationery,2,8.75,0.05
+L00018,2026-01-20,S03,West,P05,Desk lamp,Home,1,35.0,0.0
+L00019,2026-02-19,S02,South,P03,Coffee beans,Grocery,3,16.5,0.1
+L00020,2026-03-05,S01,North,P04,Notebook,Stationery,1,8.75,0.0
+L00021,2026-03-05,S03,West,P04,Notebook,Stationery,4,8.75,0.05
+L00022,2026-03-30,S02,South,P04,Notebook,Stationery,5,8.75,0.1
+L00023,2026-02-22,S01,North,P05,Desk lamp,Home,5,35.0,0.0
+L00024,2026-02-16,S02,South,P01,Headphones,Electronics,4,49.9,0.0
+L00025,2026-03-19,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00026,2026-01-05,S02,South,P03,Coffee beans,Grocery,4,16.5,0.1
+L00027,2026-03-24,S02,South,P05,Desk lamp,Home,4,35.0,0.1
+L00028,2026-02-16,S03,West,P04,Notebook,Stationery,3,8.75,0.05
+L00029,2026-01-28,S02,South,P02,Keyboard,Electronics,4,79.0,0.0
+L00030,2026-01-18,S02,South,P04,Notebook,Stationery,5,8.75,0.05
+L00031,2026-03-03,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00032,2026-03-06,S03,West,P02,Keyboard,Electronics,2,79.0,0.1
+L00033,2026-03-12,S02,South,P04,Notebook,Stationery,2,8.75,0.0
+L00034,2026-02-16,S03,West,P05,Desk lamp,Home,1,35.0,0.0
+L00035,2026-03-29,S01,North,P01,Headphones,Electronics,1,49.9,0.0
+L00036,2026-02-01,S01,North,P02,Keyboard,Electronics,5,79.0,0.05
+L00037,2026-03-01,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00038,2026-03-03,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00039,2026-03-19,S01,North,P05,Desk lamp,Home,2,35.0,0.05
+L00040,2026-01-13,S01,North,P04,Notebook,Stationery,1,8.75,0.05
+L00041,2026-01-31,S02,South,P05,Desk lamp,Home,3,35.0,0.0
+L00042,2026-02-24,S01,North,P04,Notebook,Stationery,4,8.75,0.05
+L00043,2026-03-03,S03,West,P05,Desk lamp,Home,1,35.0,0.0
+L00044,2026-01-04,S03,West,P05,Desk lamp,Home,4,35.0,0.0
+L00045,2026-01-17,S01,North,P01,Headphones,Electronics,2,49.9,0.1
+L00046,2026-02-05,S01,North,P03,Coffee beans,Grocery,3,16.5,0.0
+L00047,2026-03-27,S03,West,P03,Coffee beans,Grocery,4,16.5,0.1
+L00048,2026-03-17,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00049,2026-03-18,S02,South,P05,Desk lamp,Home,5,35.0,0.1
+L00050,2026-02-25,S01,North,P03,Coffee beans,Grocery,4,16.5,0.1
+L00051,2026-02-11,S03,West,P04,Notebook,Stationery,1,8.75,0.0
+L00052,2026-03-30,S02,South,P02,Keyboard,Electronics,5,79.0,0.0
+L00053,2026-03-07,S01,North,P03,Coffee beans,Grocery,1,16.5,0.1
+L00054,2026-01-30,S01,North,P01,Headphones,Electronics,4,49.9,0.1
+L00055,2026-03-13,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00056,2026-02-08,S03,West,P01,Headphones,Electronics,3,49.9,0.05
+L00057,2026-02-02,S01,North,P03,Coffee beans,Grocery,5,16.5,0.05
+L00058,2026-01-03,S02,South,P01,Headphones,Electronics,4,49.9,0.05
+L00059,2026-01-07,S03,West,P01,Headphones,Electronics,2,49.9,0.1
+L00060,2026-01-31,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00061,2026-01-20,S02,South,P05,Desk lamp,Home,1,35.0,0.1
+L00062,2026-03-26,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00063,2026-01-09,S01,North,P05,Desk lamp,Home,2,35.0,0.05
+L00064,2026-02-11,S03,West,P02,Keyboard,Electronics,2,79.0,0.05
+L00065,2026-03-15,S02,South,P03,Coffee beans,Grocery,3,16.5,0.1
+L00066,2026-03-05,S01,North,P03,Coffee beans,Grocery,5,16.5,0.05
+L00067,2026-01-23,S03,West,P03,Coffee beans,Grocery,3,16.5,0.05
+L00068,2026-02-12,S03,West,P02,Keyboard,Electronics,4,79.0,0.0
+L00069,2026-01-19,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00070,2026-01-01,S03,West,P01,Headphones,Electronics,2,49.9,0.1
+L00071,2026-02-01,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00072,2026-01-08,S02,South,P05,Desk lamp,Home,4,35.0,0.1
+L00073,2026-03-06,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00074,2026-02-09,S03,West,P03,Coffee beans,Grocery,2,16.5,0.0
+L00075,2026-03-26,S02,South,P02,Keyboard,Electronics,5,79.0,0.05
+L00076,2026-02-27,S03,West,P01,Headphones,Electronics,2,49.9,0.05
+L00077,2026-01-03,S01,North,P01,Headphones,Electronics,3,49.9,0.1
+L00078,2026-02-03,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00079,2026-02-28,S01,North,P01,Headphones,Electronics,1,49.9,0.0
+L00080,2026-02-12,S01,North,P01,Headphones,Electronics,4,49.9,0.05
+L00081,2026-02-13,S01,North,P02,Keyboard,Electronics,2,79.0,0.05
+L00082,2026-01-23,S02,South,P03,Coffee beans,Grocery,4,16.5,0.1
+L00083,2026-02-04,S03,West,P03,Coffee beans,Grocery,1,16.5,0.05
+L00084,2026-02-02,S02,South,P03,Coffee beans,Grocery,1,16.5,0.1
+L00085,2026-01-09,S02,South,P03,Coffee beans,Grocery,5,16.5,0.05
+L00086,2026-02-19,S01,North,P02,Keyboard,Electronics,1,79.0,0.0
+L00087,2026-02-03,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00088,2026-01-18,S01,North,P01,Headphones,Electronics,5,49.9,0.05
+L00089,2026-03-10,S02,South,P04,Notebook,Stationery,2,8.75,0.1
+L00090,2026-01-06,S01,North,P01,Headphones,Electronics,2,49.9,0.05
+L00091,2026-01-31,S01,North,P04,Notebook,Stationery,5,8.75,0.0
+L00092,2026-02-15,S01,North,P01,Headphones,Electronics,4,49.9,0.0
+L00093,2026-02-02,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00094,2026-02-14,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00095,2026-03-25,S03,West,P02,Keyboard,Electronics,2,79.0,0.1
+L00096,2026-03-23,S01,North,P03,Coffee beans,Grocery,2,16.5,0.1
+L00097,2026-02-14,S01,North,P03,Coffee beans,Grocery,1,16.5,0.1
+L00098,2026-01-30,S03,West,P03,Coffee beans,Grocery,1,16.5,0.1
+L00099,2026-02-03,S01,North,P04,Notebook,Stationery,3,8.75,0.05
+L00100,2026-03-01,S01,North,P03,Coffee beans,Grocery,4,16.5,0.0
+L00101,2026-03-18,S02,South,P03,Coffee beans,Grocery,1,16.5,0.0
+L00102,2026-03-18,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00103,2026-01-14,S02,South,P04,Notebook,Stationery,4,8.75,0.0
+L00104,2026-01-07,S01,North,P01,Headphones,Electronics,1,49.9,0.1
+L00105,2026-01-23,S02,South,P03,Coffee beans,Grocery,4,16.5,0.05
+L00106,2026-02-25,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00107,2026-01-16,S03,West,P01,Headphones,Electronics,3,49.9,0.05
+L00108,2026-02-14,S02,South,P04,Notebook,Stationery,1,8.75,0.05
+L00109,2026-02-09,S01,North,P04,Notebook,Stationery,4,8.75,0.05
+L00110,2026-02-04,S02,South,P03,Coffee beans,Grocery,2,16.5,0.1
+L00111,2026-01-17,S03,West,P03,Coffee beans,Grocery,3,16.5,0.05
+L00112,2026-02-21,S02,South,P05,Desk lamp,Home,5,35.0,0.05
+L00113,2026-01-08,S03,West,P04,Notebook,Stationery,3,8.75,0.05
+L00114,2026-03-05,S01,North,P04,Notebook,Stationery,1,8.75,0.0
+L00115,2026-02-10,S02,South,P05,Desk lamp,Home,4,35.0,0.1
+L00116,2026-02-16,S03,West,P05,Desk lamp,Home,3,35.0,0.05
+L00117,2026-03-03,S02,South,P04,Notebook,Stationery,5,8.75,0.0
+L00118,2026-01-25,S03,West,P03,Coffee beans,Grocery,3,16.5,0.1
+L00119,2026-02-28,S01,North,P05,Desk lamp,Home,2,35.0,0.1
+L00120,2026-01-17,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00121,2026-01-20,S03,West,P03,Coffee beans,Grocery,3,16.5,0.05
+L00122,2026-02-19,S01,North,P01,Headphones,Electronics,3,49.9,0.1
+L00123,2026-02-05,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00124,2026-02-25,S01,North,P01,Headphones,Electronics,1,49.9,0.0
+L00125,2026-01-12,S02,South,P05,Desk lamp,Home,3,35.0,0.1
+L00126,2026-02-17,S03,West,P01,Headphones,Electronics,3,49.9,0.0
+L00127,2026-01-21,S01,North,P03,Coffee beans,Grocery,3,16.5,0.1
+L00128,2026-01-28,S02,South,P04,Notebook,Stationery,3,8.75,0.0
+L00129,2026-02-05,S01,North,P04,Notebook,Stationery,1,8.75,0.05
+L00130,2026-03-25,S02,South,P05,Desk lamp,Home,1,35.0,0.0
+L00131,2026-01-23,S03,West,P03,Coffee beans,Grocery,1,16.5,0.0
+L00132,2026-03-13,S03,West,P01,Headphones,Electronics,5,49.9,0.05
+L00133,2026-03-11,S03,West,P05,Desk lamp,Home,3,35.0,0.05
+L00134,2026-01-18,S01,North,P04,Notebook,Stationery,5,8.75,0.0
+L00135,2026-01-12,S03,West,P01,Headphones,Electronics,3,49.9,0.0
+L00136,2026-02-23,S02,South,P03,Coffee beans,Grocery,4,16.5,0.0
+L00137,2026-02-03,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00138,2026-03-01,S01,North,P04,Notebook,Stationery,1,8.75,0.1
+L00139,2026-02-10,S02,South,P05,Desk lamp,Home,2,35.0,0.05
+L00140,2026-03-25,S03,West,P03,Coffee beans,Grocery,5,16.5,0.05
+L00141,2026-02-17,S03,West,P03,Coffee beans,Grocery,5,16.5,0.1
+L00142,2026-02-16,S01,North,P04,Notebook,Stationery,4,8.75,0.0
+L00143,2026-01-18,S02,South,P02,Keyboard,Electronics,4,79.0,0.1
+L00144,2026-03-30,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00145,2026-02-09,S03,West,P03,Coffee beans,Grocery,5,16.5,0.05
+L00146,2026-02-26,S01,North,P01,Headphones,Electronics,5,49.9,0.0
+L00147,2026-01-14,S03,West,P01,Headphones,Electronics,3,49.9,0.05
+L00148,2026-03-14,S01,North,P03,Coffee beans,Grocery,3,16.5,0.0
+L00149,2026-03-13,S03,West,P03,Coffee beans,Grocery,4,16.5,0.1
+L00150,2026-03-23,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00151,2026-02-12,S01,North,P04,Notebook,Stationery,2,8.75,0.1
+L00152,2026-02-26,S01,North,P02,Keyboard,Electronics,2,79.0,0.05
+L00153,2026-01-09,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00154,2026-03-18,S02,South,P05,Desk lamp,Home,3,35.0,0.1
+L00155,2026-01-23,S01,North,P03,Coffee beans,Grocery,3,16.5,0.0
+L00156,2026-03-03,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00157,2026-03-05,S03,West,P01,Headphones,Electronics,2,49.9,0.05
+L00158,2026-02-02,S02,South,P01,Headphones,Electronics,2,49.9,0.0
+L00159,2026-01-11,S02,South,P03,Coffee beans,Grocery,4,16.5,0.05
+L00160,2026-03-25,S03,West,P03,Coffee beans,Grocery,2,16.5,0.0
+L00161,2026-03-06,S01,North,P05,Desk lamp,Home,4,35.0,0.05
+L00162,2026-02-24,S02,South,P01,Headphones,Electronics,3,49.9,0.0
+L00163,2026-03-09,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00164,2026-01-27,S02,South,P01,Headphones,Electronics,3,49.9,0.05
+L00165,2026-01-26,S03,West,P03,Coffee beans,Grocery,4,16.5,0.1
+L00166,2026-01-04,S02,South,P03,Coffee beans,Grocery,2,16.5,0.0
+L00167,2026-01-27,S02,South,P05,Desk lamp,Home,5,35.0,0.0
+L00168,2026-03-21,S02,South,P02,Keyboard,Electronics,1,79.0,0.1
+L00169,2026-03-11,S01,North,P03,Coffee beans,Grocery,5,16.5,0.05
+L00170,2026-01-04,S01,North,P03,Coffee beans,Grocery,3,16.5,0.1
+L00171,2026-02-08,S03,West,P02,Keyboard,Electronics,1,79.0,0.0
+L00172,2026-01-01,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00173,2026-01-26,S01,North,P04,Notebook,Stationery,2,8.75,0.05
+L00174,2026-03-11,S02,South,P01,Headphones,Electronics,4,49.9,0.0
+L00175,2026-02-01,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00176,2026-03-24,S01,North,P04,Notebook,Stationery,5,8.75,0.05
+L00177,2026-01-15,S03,West,P04,Notebook,Stationery,5,8.75,0.1
+L00178,2026-02-09,S03,West,P03,Coffee beans,Grocery,2,16.5,0.1
+L00179,2026-03-14,S03,West,P03,Coffee beans,Grocery,5,16.5,0.0
+L00180,2026-02-07,S01,North,P03,Coffee beans,Grocery,5,16.5,0.05
+L00181,2026-03-23,S02,South,P05,Desk lamp,Home,5,35.0,0.05
+L00182,2026-01-08,S01,North,P03,Coffee beans,Grocery,5,16.5,0.0
+L00183,2026-01-30,S03,West,P04,Notebook,Stationery,3,8.75,0.05
+L00184,2026-03-14,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00185,2026-01-30,S01,North,P04,Notebook,Stationery,2,8.75,0.05
+L00186,2026-02-25,S01,North,P05,Desk lamp,Home,4,35.0,0.0
+L00187,2026-01-04,S01,North,P01,Headphones,Electronics,1,49.9,0.05
+L00188,2026-02-18,S03,West,P02,Keyboard,Electronics,2,79.0,0.1
+L00189,2026-01-10,S01,North,P01,Headphones,Electronics,1,49.9,0.1
+L00190,2026-03-01,S02,South,P04,Notebook,Stationery,1,8.75,0.05
+L00191,2026-01-01,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00192,2026-01-12,S01,North,P03,Coffee beans,Grocery,3,16.5,0.05
+L00193,2026-01-14,S01,North,P02,Keyboard,Electronics,4,79.0,0.1
+L00194,2026-01-10,S02,South,P03,Coffee beans,Grocery,1,16.5,0.0
+L00195,2026-03-21,S01,North,P04,Notebook,Stationery,2,8.75,0.05
+L00196,2026-02-18,S02,South,P04,Notebook,Stationery,2,8.75,0.0
+L00197,2026-02-21,S03,West,P03,Coffee beans,Grocery,5,16.5,0.1
+L00198,2026-02-23,S01,North,P03,Coffee beans,Grocery,5,16.5,0.0
+L00199,2026-02-13,S02,South,P01,Headphones,Electronics,5,49.9,0.1
+L00200,2026-03-19,S02,South,P01,Headphones,Electronics,5,49.9,0.05
+L00201,2026-01-04,S03,West,P05,Desk lamp,Home,4,35.0,0.05
+L00202,2026-03-12,S03,West,P04,Notebook,Stationery,3,8.75,0.1
+L00203,2026-01-29,S03,West,P05,Desk lamp,Home,5,35.0,0.05
+L00204,2026-01-11,S01,North,P05,Desk lamp,Home,2,35.0,0.05
+L00205,2026-02-01,S02,South,P05,Desk lamp,Home,3,35.0,0.0
+L00206,2026-03-29,S02,South,P01,Headphones,Electronics,5,49.9,0.1
+L00207,2026-02-22,S03,West,P03,Coffee beans,Grocery,2,16.5,0.0
+L00208,2026-02-02,S02,South,P05,Desk lamp,Home,3,35.0,0.0
+L00209,2026-01-22,S03,West,P02,Keyboard,Electronics,4,79.0,0.1
+L00210,2026-01-07,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00211,2026-01-08,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00212,2026-03-23,S03,West,P01,Headphones,Electronics,1,49.9,0.1
+L00213,2026-01-27,S03,West,P04,Notebook,Stationery,2,8.75,0.0
+L00214,2026-02-17,S02,South,P04,Notebook,Stationery,2,8.75,0.05
+L00215,2026-01-15,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00216,2026-03-20,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00217,2026-03-22,S01,North,P03,Coffee beans,Grocery,2,16.5,0.1
+L00218,2026-02-15,S01,North,P03,Coffee beans,Grocery,3,16.5,0.1
+L00219,2026-02-16,S03,West,P03,Coffee beans,Grocery,5,16.5,0.1
+L00220,2026-03-20,S03,West,P01,Headphones,Electronics,1,49.9,0.0
+L00221,2026-03-07,S02,South,P01,Headphones,Electronics,3,49.9,0.0
+L00222,2026-02-18,S03,West,P03,Coffee beans,Grocery,1,16.5,0.05
+L00223,2026-03-30,S01,North,P01,Headphones,Electronics,5,49.9,0.0
+L00224,2026-01-19,S03,West,P05,Desk lamp,Home,1,35.0,0.0
+L00225,2026-01-09,S03,West,P01,Headphones,Electronics,4,49.9,0.0
+L00226,2026-01-14,S03,West,P01,Headphones,Electronics,5,49.9,0.1
+L00227,2026-01-02,S02,South,P01,Headphones,Electronics,3,49.9,0.05
+L00228,2026-02-17,S03,West,P02,Keyboard,Electronics,3,79.0,0.05
+L00229,2026-03-07,S03,West,P04,Notebook,Stationery,3,8.75,0.05
+L00230,2026-01-28,S03,West,P02,Keyboard,Electronics,5,79.0,0.1
+L00231,2026-03-30,S01,North,P05,Desk lamp,Home,3,35.0,0.05
+L00232,2026-03-12,S03,West,P04,Notebook,Stationery,3,8.75,0.05
+L00233,2026-01-28,S02,South,P04,Notebook,Stationery,3,8.75,0.0
+L00234,2026-03-24,S01,North,P03,Coffee beans,Grocery,4,16.5,0.05
+L00235,2026-01-28,S01,North,P03,Coffee beans,Grocery,2,16.5,0.05
+L00236,2026-02-24,S01,North,P03,Coffee beans,Grocery,4,16.5,0.1
+L00237,2026-01-04,S01,North,P02,Keyboard,Electronics,5,79.0,0.05
+L00238,2026-03-08,S03,West,P03,Coffee beans,Grocery,1,16.5,0.1
+L00239,2026-01-13,S03,West,P03,Coffee beans,Grocery,2,16.5,0.1
+L00240,2026-03-04,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00241,2026-02-28,S02,South,P04,Notebook,Stationery,2,8.75,0.05
+L00242,2026-03-22,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00243,2026-01-19,S03,West,P01,Headphones,Electronics,5,49.9,0.05
+L00244,2026-02-01,S02,South,P02,Keyboard,Electronics,2,79.0,0.05
+L00245,2026-01-13,S02,South,P02,Keyboard,Electronics,2,79.0,0.0
+L00246,2026-03-06,S01,North,P04,Notebook,Stationery,2,8.75,0.1
+L00247,2026-01-30,S02,South,P03,Coffee beans,Grocery,2,16.5,0.1
+L00248,2026-03-17,S02,South,P01,Headphones,Electronics,4,49.9,0.05
+L00249,2026-03-07,S03,West,P03,Coffee beans,Grocery,4,16.5,0.0
+L00250,2026-03-28,S02,South,P04,Notebook,Stationery,1,8.75,0.1
+L00251,2026-03-23,S02,South,P03,Coffee beans,Grocery,1,16.5,0.0
+L00252,2026-02-16,S01,North,P05,Desk lamp,Home,1,35.0,0.1
+L00253,2026-01-04,S03,West,P05,Desk lamp,Home,1,35.0,0.05
+L00254,2026-02-26,S01,North,P03,Coffee beans,Grocery,5,16.5,0.0
+L00255,2026-03-31,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00256,2026-01-10,S03,West,P02,Keyboard,Electronics,1,79.0,0.05
+L00257,2026-03-15,S02,South,P04,Notebook,Stationery,2,8.75,0.0
+L00258,2026-02-21,S03,West,P05,Desk lamp,Home,4,35.0,0.0
+L00259,2026-03-23,S01,North,P01,Headphones,Electronics,3,49.9,0.05
+L00260,2026-02-10,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00261,2026-02-28,S01,North,P05,Desk lamp,Home,3,35.0,0.05
+L00262,2026-03-25,S01,North,P01,Headphones,Electronics,2,49.9,0.1
+L00263,2026-01-02,S03,West,P05,Desk lamp,Home,4,35.0,0.1
+L00264,2026-03-08,S02,South,P03,Coffee beans,Grocery,3,16.5,0.05
+L00265,2026-02-05,S02,South,P03,Coffee beans,Grocery,3,16.5,0.05
+L00266,2026-02-14,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00267,2026-01-29,S03,West,P04,Notebook,Stationery,2,8.75,0.0
+L00268,2026-03-15,S03,West,P02,Keyboard,Electronics,2,79.0,0.05
+L00269,2026-03-26,S03,West,P03,Coffee beans,Grocery,3,16.5,0.05
+L00270,2026-03-04,S01,North,P01,Headphones,Electronics,1,49.9,0.05
+L00271,2026-01-13,S02,South,P02,Keyboard,Electronics,3,79.0,0.0
+L00272,2026-02-07,S03,West,P05,Desk lamp,Home,2,35.0,0.05
+L00273,2026-03-01,S03,West,P01,Headphones,Electronics,4,49.9,0.0
+L00274,2026-03-19,S01,North,P01,Headphones,Electronics,3,49.9,0.0
+L00275,2026-03-08,S03,West,P05,Desk lamp,Home,2,35.0,0.1
+L00276,2026-03-23,S02,South,P04,Notebook,Stationery,2,8.75,0.05
+L00277,2026-03-08,S01,North,P04,Notebook,Stationery,3,8.75,0.05
+L00278,2026-02-14,S03,West,P05,Desk lamp,Home,1,35.0,0.05
+L00279,2026-01-03,S01,North,P03,Coffee beans,Grocery,3,16.5,0.0
+L00280,2026-03-04,S02,South,P04,Notebook,Stationery,4,8.75,0.0
+L00281,2026-03-21,S03,West,P04,Notebook,Stationery,4,8.75,0.0
+L00282,2026-01-06,S01,North,P04,Notebook,Stationery,1,8.75,0.05
+L00283,2026-02-24,S02,South,P01,Headphones,Electronics,5,49.9,0.05
+L00284,2026-03-22,S01,North,P01,Headphones,Electronics,1,49.9,0.1
+L00285,2026-01-19,S03,West,P01,Headphones,Electronics,1,49.9,0.1
+L00286,2026-01-05,S03,West,P03,Coffee beans,Grocery,4,16.5,0.05
+L00287,2026-02-18,S02,South,P02,Keyboard,Electronics,2,79.0,0.1
+L00288,2026-03-14,S01,North,P05,Desk lamp,Home,3,35.0,0.1
+L00289,2026-03-26,S03,West,P04,Notebook,Stationery,4,8.75,0.0
+L00290,2026-01-26,S02,South,P04,Notebook,Stationery,3,8.75,0.0
+L00291,2026-01-20,S01,North,P03,Coffee beans,Grocery,3,16.5,0.05
+L00292,2026-02-24,S02,South,P01,Headphones,Electronics,5,49.9,0.05
+L00293,2026-02-01,S02,South,P03,Coffee beans,Grocery,4,16.5,0.05
+L00294,2026-01-03,S02,South,P03,Coffee beans,Grocery,5,16.5,0.05
+L00295,2026-03-09,S02,South,P03,Coffee beans,Grocery,4,16.5,0.0
+L00296,2026-03-15,S03,West,P03,Coffee beans,Grocery,2,16.5,0.1
+L00297,2026-03-04,S03,West,P05,Desk lamp,Home,1,35.0,0.05
+L00298,2026-01-09,S02,South,P05,Desk lamp,Home,4,35.0,0.0
+L00299,2026-03-04,S03,West,P01,Headphones,Electronics,3,49.9,0.0
+L00300,2026-01-14,S03,West,P01,Headphones,Electronics,2,49.9,0.1
+L00301,2026-03-03,S03,West,P04,Notebook,Stationery,1,8.75,0.05
+L00302,2026-01-26,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00303,2026-02-17,S03,West,P05,Desk lamp,Home,5,35.0,0.05
+L00304,2026-01-27,S03,West,P04,Notebook,Stationery,1,8.75,0.1
+L00305,2026-02-18,S03,West,P02,Keyboard,Electronics,5,79.0,0.05
+L00306,2026-01-13,S03,West,P01,Headphones,Electronics,2,49.9,0.1
+L00307,2026-01-30,S02,South,P05,Desk lamp,Home,3,35.0,0.1
+L00308,2026-01-07,S01,North,P05,Desk lamp,Home,4,35.0,0.0
+L00309,2026-03-12,S01,North,P02,Keyboard,Electronics,3,79.0,0.1
+L00310,2026-01-25,S02,South,P01,Headphones,Electronics,5,49.9,0.1
+L00311,2026-02-08,S02,South,P05,Desk lamp,Home,5,35.0,0.1
+L00312,2026-03-13,S02,South,P04,Notebook,Stationery,4,8.75,0.0
+L00313,2026-01-03,S01,North,P04,Notebook,Stationery,4,8.75,0.0
+L00314,2026-02-22,S03,West,P05,Desk lamp,Home,3,35.0,0.05
+L00315,2026-01-20,S01,North,P05,Desk lamp,Home,3,35.0,0.05
+L00316,2026-03-14,S01,North,P03,Coffee beans,Grocery,4,16.5,0.1
+L00317,2026-03-08,S02,South,P01,Headphones,Electronics,2,49.9,0.0
+L00318,2026-01-04,S03,West,P05,Desk lamp,Home,3,35.0,0.1
+L00319,2026-01-27,S02,South,P04,Notebook,Stationery,3,8.75,0.05
+L00320,2026-03-17,S01,North,P05,Desk lamp,Home,2,35.0,0.1
+L00321,2026-02-12,S01,North,P01,Headphones,Electronics,5,49.9,0.0
+L00322,2026-03-22,S01,North,P02,Keyboard,Electronics,4,79.0,0.0
+L00323,2026-01-03,S02,South,P02,Keyboard,Electronics,1,79.0,0.1
+L00324,2026-03-30,S03,West,P03,Coffee beans,Grocery,5,16.5,0.0
+L00325,2026-02-13,S02,South,P02,Keyboard,Electronics,2,79.0,0.1
+L00326,2026-03-30,S01,North,P02,Keyboard,Electronics,4,79.0,0.0
+L00327,2026-03-06,S02,South,P03,Coffee beans,Grocery,2,16.5,0.0
+L00328,2026-03-04,S02,South,P05,Desk lamp,Home,4,35.0,0.05
+L00329,2026-02-14,S02,South,P05,Desk lamp,Home,4,35.0,0.0
+L00330,2026-03-03,S02,South,P03,Coffee beans,Grocery,3,16.5,0.1
+L00331,2026-03-25,S01,North,P04,Notebook,Stationery,5,8.75,0.0
+L00332,2026-03-21,S02,South,P04,Notebook,Stationery,4,8.75,0.0
+L00333,2026-01-05,S03,West,P03,Coffee beans,Grocery,3,16.5,0.1
+L00334,2026-02-24,S03,West,P02,Keyboard,Electronics,1,79.0,0.0
+L00335,2026-01-01,S02,South,P03,Coffee beans,Grocery,2,16.5,0.1
+L00336,2026-02-19,S02,South,P03,Coffee beans,Grocery,4,16.5,0.05
+L00337,2026-02-26,S01,North,P04,Notebook,Stationery,1,8.75,0.1
+L00338,2026-01-03,S01,North,P02,Keyboard,Electronics,1,79.0,0.05
+L00339,2026-03-01,S01,North,P05,Desk lamp,Home,1,35.0,0.05
+L00340,2026-02-09,S02,South,P01,Headphones,Electronics,1,49.9,0.1
+L00341,2026-03-17,S02,South,P04,Notebook,Stationery,3,8.75,0.05
+L00342,2026-03-24,S03,West,P02,Keyboard,Electronics,2,79.0,0.1
+L00343,2026-02-08,S02,South,P01,Headphones,Electronics,3,49.9,0.0
+L00344,2026-01-08,S01,North,P02,Keyboard,Electronics,1,79.0,0.0
+L00345,2026-03-17,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00346,2026-02-05,S03,West,P03,Coffee beans,Grocery,3,16.5,0.0
+L00347,2026-01-14,S01,North,P03,Coffee beans,Grocery,3,16.5,0.05
+L00348,2026-02-15,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00349,2026-01-27,S03,West,P03,Coffee beans,Grocery,5,16.5,0.1
+L00350,2026-02-15,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00351,2026-02-28,S01,North,P02,Keyboard,Electronics,1,79.0,0.05
+L00352,2026-01-04,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00353,2026-03-01,S02,South,P05,Desk lamp,Home,1,35.0,0.1
+L00354,2026-03-24,S02,South,P02,Keyboard,Electronics,1,79.0,0.05
+L00355,2026-03-03,S03,West,P03,Coffee beans,Grocery,1,16.5,0.0
+L00356,2026-01-17,S03,West,P04,Notebook,Stationery,2,8.75,0.05
+L00357,2026-03-06,S01,North,P02,Keyboard,Electronics,5,79.0,0.1
+L00358,2026-03-03,S02,South,P05,Desk lamp,Home,2,35.0,0.0
+L00359,2026-03-03,S03,West,P04,Notebook,Stationery,4,8.75,0.05
+L00360,2026-01-12,S02,South,P02,Keyboard,Electronics,1,79.0,0.1
+L00361,2026-01-11,S02,South,P04,Notebook,Stationery,2,8.75,0.05
+L00362,2026-03-30,S01,North,P02,Keyboard,Electronics,1,79.0,0.1
+L00363,2026-02-21,S02,South,P04,Notebook,Stationery,2,8.75,0.0
+L00364,2026-03-10,S03,West,P01,Headphones,Electronics,4,49.9,0.1
+L00365,2026-02-23,S01,North,P03,Coffee beans,Grocery,2,16.5,0.0
+L00366,2026-01-24,S02,South,P02,Keyboard,Electronics,2,79.0,0.0
+L00367,2026-02-11,S03,West,P05,Desk lamp,Home,2,35.0,0.1
+L00368,2026-03-01,S02,South,P01,Headphones,Electronics,4,49.9,0.1
+L00369,2026-01-23,S03,West,P02,Keyboard,Electronics,2,79.0,0.0
+L00370,2026-03-01,S03,West,P03,Coffee beans,Grocery,1,16.5,0.0
+L00371,2026-02-09,S01,North,P03,Coffee beans,Grocery,1,16.5,0.05
+L00372,2026-01-31,S01,North,P02,Keyboard,Electronics,5,79.0,0.1
+L00373,2026-03-26,S03,West,P05,Desk lamp,Home,1,35.0,0.05
+L00374,2026-03-04,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00375,2026-03-04,S03,West,P05,Desk lamp,Home,2,35.0,0.0
+L00376,2026-02-27,S01,North,P01,Headphones,Electronics,1,49.9,0.0
+L00377,2026-03-17,S01,North,P02,Keyboard,Electronics,5,79.0,0.05
+L00378,2026-01-08,S02,South,P03,Coffee beans,Grocery,1,16.5,0.1
+L00379,2026-01-20,S01,North,P04,Notebook,Stationery,1,8.75,0.05
+L00380,2026-01-24,S02,South,P02,Keyboard,Electronics,3,79.0,0.1
+L00381,2026-03-21,S03,West,P02,Keyboard,Electronics,2,79.0,0.05
+L00382,2026-01-17,S03,West,P01,Headphones,Electronics,1,49.9,0.1
+L00383,2026-03-20,S01,North,P04,Notebook,Stationery,3,8.75,0.0
+L00384,2026-02-04,S01,North,P02,Keyboard,Electronics,5,79.0,0.05
+L00385,2026-02-04,S02,South,P02,Keyboard,Electronics,5,79.0,0.05
+L00386,2026-02-13,S02,South,P05,Desk lamp,Home,4,35.0,0.0
+L00387,2026-03-31,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00388,2026-02-15,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00389,2026-03-15,S01,North,P04,Notebook,Stationery,4,8.75,0.0
+L00390,2026-03-14,S01,North,P04,Notebook,Stationery,3,8.75,0.0
+L00391,2026-01-03,S03,West,P05,Desk lamp,Home,4,35.0,0.0
+L00392,2026-03-04,S02,South,P05,Desk lamp,Home,2,35.0,0.05
+L00393,2026-02-21,S01,North,P03,Coffee beans,Grocery,1,16.5,0.1
+L00394,2026-03-15,S03,West,P02,Keyboard,Electronics,3,79.0,0.05
+L00395,2026-03-26,S01,North,P03,Coffee beans,Grocery,2,16.5,0.1
+L00396,2026-03-25,S03,West,P05,Desk lamp,Home,1,35.0,0.0
+L00397,2026-03-16,S03,West,P03,Coffee beans,Grocery,2,16.5,0.05
+L00398,2026-01-11,S02,South,P03,Coffee beans,Grocery,5,16.5,0.1
+L00399,2026-01-05,S03,West,P01,Headphones,Electronics,4,49.9,0.1
+L00400,2026-01-29,S01,North,P05,Desk lamp,Home,1,35.0,0.1
+L00401,2026-02-16,S01,North,P04,Notebook,Stationery,5,8.75,0.05
+L00402,2026-01-10,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00403,2026-02-25,S02,South,P05,Desk lamp,Home,4,35.0,0.05
+L00404,2026-03-24,S03,West,P04,Notebook,Stationery,5,8.75,0.05
+L00405,2026-02-21,S02,South,P03,Coffee beans,Grocery,1,16.5,0.1
+L00406,2026-02-06,S01,North,P04,Notebook,Stationery,2,8.75,0.05
+L00407,2026-02-06,S03,West,P04,Notebook,Stationery,1,8.75,0.1
+L00408,2026-02-01,S02,South,P02,Keyboard,Electronics,2,79.0,0.05
+L00409,2026-02-13,S02,South,P01,Headphones,Electronics,5,49.9,0.1
+L00410,2026-02-21,S02,South,P03,Coffee beans,Grocery,1,16.5,0.0
+L00411,2026-01-22,S03,West,P02,Keyboard,Electronics,1,79.0,0.05
+L00412,2026-03-16,S02,South,P05,Desk lamp,Home,2,35.0,0.0
+L00413,2026-01-24,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00414,2026-01-03,S02,South,P05,Desk lamp,Home,5,35.0,0.0
+L00415,2026-03-08,S03,West,P03,Coffee beans,Grocery,4,16.5,0.1
+L00416,2026-01-20,S03,West,P01,Headphones,Electronics,2,49.9,0.1
+L00417,2026-01-08,S03,West,P04,Notebook,Stationery,1,8.75,0.05
+L00418,2026-03-12,S02,South,P01,Headphones,Electronics,2,49.9,0.05
+L00419,2026-02-25,S03,West,P02,Keyboard,Electronics,2,79.0,0.05
+L00420,2026-01-07,S03,West,P02,Keyboard,Electronics,1,79.0,0.05
+L00421,2026-02-16,S02,South,P05,Desk lamp,Home,5,35.0,0.1
+L00422,2026-01-02,S02,South,P05,Desk lamp,Home,2,35.0,0.1
+L00423,2026-01-12,S01,North,P05,Desk lamp,Home,5,35.0,0.05
+L00424,2026-01-01,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00425,2026-01-09,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00426,2026-02-27,S01,North,P02,Keyboard,Electronics,1,79.0,0.0
+L00427,2026-03-27,S01,North,P05,Desk lamp,Home,1,35.0,0.0
+L00428,2026-01-30,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00429,2026-01-12,S02,South,P02,Keyboard,Electronics,4,79.0,0.1
+L00430,2026-01-26,S01,North,P01,Headphones,Electronics,1,49.9,0.05
+L00431,2026-02-03,S02,South,P03,Coffee beans,Grocery,3,16.5,0.1
+L00432,2026-03-15,S02,South,P04,Notebook,Stationery,4,8.75,0.0
+L00433,2026-03-14,S01,North,P04,Notebook,Stationery,2,8.75,0.0
+L00434,2026-02-12,S03,West,P05,Desk lamp,Home,2,35.0,0.1
+L00435,2026-02-04,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00436,2026-02-12,S03,West,P02,Keyboard,Electronics,5,79.0,0.0
+L00437,2026-03-06,S02,South,P05,Desk lamp,Home,1,35.0,0.05
+L00438,2026-02-04,S03,West,P04,Notebook,Stationery,4,8.75,0.1
+L00439,2026-01-27,S02,South,P05,Desk lamp,Home,5,35.0,0.0
+L00440,2026-03-26,S01,North,P04,Notebook,Stationery,5,8.75,0.05
+L00441,2026-01-25,S03,West,P03,Coffee beans,Grocery,4,16.5,0.0
+L00442,2026-01-01,S02,South,P03,Coffee beans,Grocery,3,16.5,0.05
+L00443,2026-01-14,S03,West,P02,Keyboard,Electronics,2,79.0,0.1
+L00444,2026-02-09,S03,West,P05,Desk lamp,Home,2,35.0,0.0
+L00445,2026-02-07,S03,West,P05,Desk lamp,Home,3,35.0,0.0
+L00446,2026-01-29,S01,North,P02,Keyboard,Electronics,5,79.0,0.0
+L00447,2026-03-05,S01,North,P04,Notebook,Stationery,4,8.75,0.05
+L00448,2026-03-10,S03,West,P03,Coffee beans,Grocery,2,16.5,0.0
+L00449,2026-02-14,S02,South,P01,Headphones,Electronics,1,49.9,0.1
+L00450,2026-02-05,S01,North,P02,Keyboard,Electronics,2,79.0,0.05
+L00451,2026-02-05,S01,North,P02,Keyboard,Electronics,1,79.0,0.1
+L00452,2026-03-26,S01,North,P01,Headphones,Electronics,2,49.9,0.0
+L00453,2026-03-11,S02,South,P05,Desk lamp,Home,3,35.0,0.1
+L00454,2026-01-13,S02,South,P04,Notebook,Stationery,3,8.75,0.0
+L00455,2026-03-05,S02,South,P05,Desk lamp,Home,4,35.0,0.0
+L00456,2026-03-03,S02,South,P03,Coffee beans,Grocery,4,16.5,0.0
+L00457,2026-03-06,S03,West,P03,Coffee beans,Grocery,2,16.5,0.0
+L00458,2026-03-03,S01,North,P01,Headphones,Electronics,3,49.9,0.1
+L00459,2026-03-29,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00460,2026-03-21,S01,North,P03,Coffee beans,Grocery,2,16.5,0.0
+L00461,2026-03-30,S03,West,P02,Keyboard,Electronics,3,79.0,0.05
+L00462,2026-01-18,S01,North,P05,Desk lamp,Home,1,35.0,0.05
+L00463,2026-01-14,S01,North,P05,Desk lamp,Home,1,35.0,0.1
+L00464,2026-01-26,S01,North,P04,Notebook,Stationery,4,8.75,0.0
+L00465,2026-02-27,S03,West,P02,Keyboard,Electronics,5,79.0,0.05
+L00466,2026-02-27,S01,North,P03,Coffee beans,Grocery,3,16.5,0.05
+L00467,2026-02-18,S03,West,P02,Keyboard,Electronics,5,79.0,0.05
+L00468,2026-02-04,S01,North,P01,Headphones,Electronics,4,49.9,0.05
+L00469,2026-03-23,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00470,2026-03-04,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00471,2026-01-24,S02,South,P03,Coffee beans,Grocery,4,16.5,0.05
+L00472,2026-02-19,S03,West,P04,Notebook,Stationery,3,8.75,0.0
+L00473,2026-03-17,S03,West,P05,Desk lamp,Home,2,35.0,0.1
+L00474,2026-01-08,S03,West,P02,Keyboard,Electronics,1,79.0,0.1
+L00475,2026-02-03,S02,South,P05,Desk lamp,Home,1,35.0,0.0
+L00476,2026-03-05,S01,North,P03,Coffee beans,Grocery,3,16.5,0.05
+L00477,2026-02-14,S02,South,P01,Headphones,Electronics,1,49.9,0.1
+L00478,2026-03-26,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00479,2026-03-03,S02,South,P05,Desk lamp,Home,1,35.0,0.05
+L00480,2026-03-03,S02,South,P02,Keyboard,Electronics,2,79.0,0.0
+L00481,2026-03-03,S01,North,P01,Headphones,Electronics,3,49.9,0.05
+L00482,2026-02-15,S03,West,P02,Keyboard,Electronics,2,79.0,0.05
+L00483,2026-01-09,S02,South,P05,Desk lamp,Home,1,35.0,0.0
+L00484,2026-01-09,S03,West,P01,Headphones,Electronics,3,49.9,0.05
+L00485,2026-01-26,S01,North,P02,Keyboard,Electronics,5,79.0,0.0
+L00486,2026-01-01,S01,North,P04,Notebook,Stationery,2,8.75,0.05
+L00487,2026-01-18,S01,North,P01,Headphones,Electronics,4,49.9,0.1
+L00488,2026-03-01,S03,West,P02,Keyboard,Electronics,3,79.0,0.1
+L00489,2026-03-29,S01,North,P04,Notebook,Stationery,4,8.75,0.0
+L00490,2026-02-03,S01,North,P05,Desk lamp,Home,3,35.0,0.05
+L00491,2026-02-10,S02,South,P01,Headphones,Electronics,2,49.9,0.0
+L00492,2026-01-28,S01,North,P05,Desk lamp,Home,4,35.0,0.05
+L00493,2026-02-23,S01,North,P04,Notebook,Stationery,5,8.75,0.05
+L00494,2026-02-05,S02,South,P01,Headphones,Electronics,5,49.9,0.1
+L00495,2026-01-09,S03,West,P02,Keyboard,Electronics,3,79.0,0.0
+L00496,2026-02-07,S03,West,P03,Coffee beans,Grocery,3,16.5,0.0
+L00497,2026-03-04,S01,North,P03,Coffee beans,Grocery,5,16.5,0.1
+L00498,2026-01-09,S01,North,P02,Keyboard,Electronics,5,79.0,0.05
+L00499,2026-01-10,S01,North,P04,Notebook,Stationery,2,8.75,0.1
+L00500,2026-03-11,S01,North,P01,Headphones,Electronics,2,49.9,0.0
+L00501,2026-02-28,S02,South,P02,Keyboard,Electronics,1,79.0,0.0
+L00502,2026-01-27,S01,North,P05,Desk lamp,Home,2,35.0,0.05
+L00503,2026-02-13,S01,North,P03,Coffee beans,Grocery,4,16.5,0.1
+L00504,2026-01-09,S03,West,P05,Desk lamp,Home,3,35.0,0.05
+L00505,2026-02-04,S01,North,P05,Desk lamp,Home,1,35.0,0.1
+L00506,2026-02-25,S01,North,P02,Keyboard,Electronics,4,79.0,0.05
+L00507,2026-02-07,S01,North,P04,Notebook,Stationery,3,8.75,0.05
+L00508,2026-01-14,S03,West,P03,Coffee beans,Grocery,4,16.5,0.0
+L00509,2026-03-23,S01,North,P01,Headphones,Electronics,3,49.9,0.1
+L00510,2026-01-24,S01,North,P01,Headphones,Electronics,1,49.9,0.0
+L00511,2026-03-18,S02,South,P01,Headphones,Electronics,3,49.9,0.05
+L00512,2026-01-10,S02,South,P01,Headphones,Electronics,3,49.9,0.05
+L00513,2026-02-26,S03,West,P02,Keyboard,Electronics,1,79.0,0.1
+L00514,2026-03-13,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00515,2026-01-09,S01,North,P05,Desk lamp,Home,3,35.0,0.1
+L00516,2026-03-05,S02,South,P01,Headphones,Electronics,1,49.9,0.0
+L00517,2026-01-18,S02,South,P05,Desk lamp,Home,1,35.0,0.1
+L00518,2026-02-03,S02,South,P04,Notebook,Stationery,2,8.75,0.1
+L00519,2026-03-17,S01,North,P01,Headphones,Electronics,4,49.9,0.0
+L00520,2026-02-27,S02,South,P03,Coffee beans,Grocery,1,16.5,0.05
+L00521,2026-03-22,S02,South,P03,Coffee beans,Grocery,5,16.5,0.0
+L00522,2026-03-30,S03,West,P01,Headphones,Electronics,5,49.9,0.05
+L00523,2026-02-12,S02,South,P03,Coffee beans,Grocery,4,16.5,0.0
+L00524,2026-01-21,S01,North,P03,Coffee beans,Grocery,1,16.5,0.1
+L00525,2026-01-11,S01,North,P03,Coffee beans,Grocery,1,16.5,0.1
+L00526,2026-02-26,S02,South,P05,Desk lamp,Home,5,35.0,0.0
+L00527,2026-03-20,S02,South,P04,Notebook,Stationery,5,8.75,0.05
+L00528,2026-02-24,S01,North,P03,Coffee beans,Grocery,5,16.5,0.0
+L00529,2026-01-01,S02,South,P04,Notebook,Stationery,2,8.75,0.0
+L00530,2026-03-27,S01,North,P05,Desk lamp,Home,2,35.0,0.0
+L00531,2026-02-25,S02,South,P04,Notebook,Stationery,4,8.75,0.05
+L00532,2026-03-22,S01,North,P05,Desk lamp,Home,4,35.0,0.1
+L00533,2026-03-30,S01,North,P05,Desk lamp,Home,5,35.0,0.1
+L00534,2026-03-22,S03,West,P01,Headphones,Electronics,4,49.9,0.1
+L00535,2026-01-19,S01,North,P02,Keyboard,Electronics,2,79.0,0.0
+L00536,2026-02-28,S03,West,P01,Headphones,Electronics,5,49.9,0.0
+L00537,2026-02-03,S03,West,P02,Keyboard,Electronics,3,79.0,0.0
+L00538,2026-03-20,S02,South,P05,Desk lamp,Home,5,35.0,0.0
+L00539,2026-03-05,S03,West,P05,Desk lamp,Home,2,35.0,0.05
+L00540,2026-02-16,S02,South,P01,Headphones,Electronics,5,49.9,0.0
+L00541,2026-01-01,S01,North,P01,Headphones,Electronics,5,49.9,0.1
+L00542,2026-02-18,S02,South,P05,Desk lamp,Home,3,35.0,0.05
+L00543,2026-01-07,S02,South,P03,Coffee beans,Grocery,3,16.5,0.05
+L00544,2026-03-12,S01,North,P05,Desk lamp,Home,5,35.0,0.05
+L00545,2026-02-15,S03,West,P04,Notebook,Stationery,5,8.75,0.0
+L00546,2026-01-23,S02,South,P04,Notebook,Stationery,1,8.75,0.05
+L00547,2026-01-15,S02,South,P04,Notebook,Stationery,3,8.75,0.05
+L00548,2026-01-20,S02,South,P02,Keyboard,Electronics,4,79.0,0.05
+L00549,2026-01-14,S01,North,P01,Headphones,Electronics,5,49.9,0.0
+L00550,2026-01-07,S03,West,P02,Keyboard,Electronics,5,79.0,0.1
+L00551,2026-01-13,S03,West,P04,Notebook,Stationery,2,8.75,0.05
+L00552,2026-01-31,S01,North,P01,Headphones,Electronics,3,49.9,0.0
+L00553,2026-02-13,S03,West,P03,Coffee beans,Grocery,4,16.5,0.1
+L00554,2026-01-23,S02,South,P03,Coffee beans,Grocery,2,16.5,0.1
+L00555,2026-03-23,S01,North,P02,Keyboard,Electronics,2,79.0,0.1
+L00556,2026-03-19,S03,West,P01,Headphones,Electronics,3,49.9,0.05
+L00557,2026-03-13,S02,South,P01,Headphones,Electronics,1,49.9,0.1
+L00558,2026-01-16,S02,South,P03,Coffee beans,Grocery,3,16.5,0.0
+L00559,2026-03-06,S01,North,P05,Desk lamp,Home,3,35.0,0.05
+L00560,2026-02-04,S02,South,P05,Desk lamp,Home,4,35.0,0.05
+L00561,2026-01-08,S02,South,P05,Desk lamp,Home,4,35.0,0.05
+L00562,2026-02-10,S02,South,P03,Coffee beans,Grocery,2,16.5,0.05
+L00563,2026-02-04,S01,North,P05,Desk lamp,Home,3,35.0,0.1
+L00564,2026-02-18,S03,West,P03,Coffee beans,Grocery,3,16.5,0.1
+L00565,2026-03-04,S01,North,P05,Desk lamp,Home,4,35.0,0.0
+L00566,2026-01-17,S03,West,P01,Headphones,Electronics,1,49.9,0.05
+L00567,2026-01-22,S03,West,P03,Coffee beans,Grocery,1,16.5,0.05
+L00568,2026-03-03,S01,North,P03,Coffee beans,Grocery,1,16.5,0.0
+L00569,2026-03-15,S02,South,P04,Notebook,Stationery,1,8.75,0.0
+L00570,2026-03-05,S02,South,P03,Coffee beans,Grocery,2,16.5,0.0
+L00571,2026-03-24,S01,North,P05,Desk lamp,Home,3,35.0,0.1
+L00572,2026-02-10,S02,South,P05,Desk lamp,Home,3,35.0,0.0
+L00573,2026-03-06,S01,North,P01,Headphones,Electronics,2,49.9,0.05
+L00574,2026-03-31,S02,South,P02,Keyboard,Electronics,5,79.0,0.0
+L00575,2026-01-18,S02,South,P02,Keyboard,Electronics,4,79.0,0.1
+L00576,2026-02-16,S03,West,P04,Notebook,Stationery,4,8.75,0.05
+L00577,2026-02-15,S02,South,P05,Desk lamp,Home,1,35.0,0.0
+L00578,2026-03-13,S02,South,P05,Desk lamp,Home,2,35.0,0.0
+L00579,2026-03-20,S01,North,P03,Coffee beans,Grocery,4,16.5,0.0
+L00580,2026-03-03,S03,West,P05,Desk lamp,Home,4,35.0,0.0
+L00581,2026-03-10,S01,North,P02,Keyboard,Electronics,4,79.0,0.0
+L00582,2026-03-28,S03,West,P03,Coffee beans,Grocery,4,16.5,0.0
+L00583,2026-02-26,S03,West,P02,Keyboard,Electronics,3,79.0,0.0
+L00584,2026-03-28,S02,South,P03,Coffee beans,Grocery,3,16.5,0.05
+L00585,2026-03-15,S03,West,P05,Desk lamp,Home,2,35.0,0.05
+L00586,2026-01-15,S03,West,P02,Keyboard,Electronics,1,79.0,0.0
+L00587,2026-03-14,S02,South,P03,Coffee beans,Grocery,5,16.5,0.1
+L00588,2026-01-08,S03,West,P01,Headphones,Electronics,5,49.9,0.1
+L00589,2026-01-31,S01,North,P04,Notebook,Stationery,3,8.75,0.1
+L00590,2026-02-10,S03,West,P04,Notebook,Stationery,2,8.75,0.1
+L00591,2026-03-11,S03,West,P03,Coffee beans,Grocery,2,16.5,0.05
+L00592,2026-02-11,S01,North,P04,Notebook,Stationery,5,8.75,0.1
+L00593,2026-03-26,S01,North,P03,Coffee beans,Grocery,4,16.5,0.0
+L00594,2026-02-24,S02,South,P03,Coffee beans,Grocery,5,16.5,0.05
+L00595,2026-02-24,S01,North,P05,Desk lamp,Home,4,35.0,0.1
+L00596,2026-03-01,S03,West,P01,Headphones,Electronics,4,49.9,0.05
+L00597,2026-02-22,S02,South,P04,Notebook,Stationery,1,8.75,0.1
+L00598,2026-01-13,S03,West,P04,Notebook,Stationery,2,8.75,0.0
+L00599,2026-03-22,S02,South,P01,Headphones,Electronics,2,49.9,0.05
+L00600,2026-02-07,S02,South,P03,Coffee beans,Grocery,2,16.5,0.0

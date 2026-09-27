@@ -1,0 +1,8 @@
+{
+  "source_lines": 600,
+  "fact_lines": 600,
+  "source_sales_usd": 59322.25,
+  "fact_sales_usd": 59322.25,
+  "sales_difference_usd": 0.0,
+  "missing_dimension_keys": 0
+}
